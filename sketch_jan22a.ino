@@ -1,3 +1,5 @@
+// This is code that is not meant to be used - the conditions must be changed in this instance. It is just meant for experimenting with the syntax of C used in Arduino.
+
 const int inputPin1 = 1; // Go straight
 const int inputPin2 = 2; // Go left
 const int inputPin3 = 3; // Go right
